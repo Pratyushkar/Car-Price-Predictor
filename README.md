@@ -15,7 +15,8 @@ It predicts the price of the car based on the data model presented using pandas 
 
 * To run this You need to have pre installed   
 	Python 3   
-	Python libraries (pandas, sklearn, matplotlib)  
+	Python libraries (pandas, sklearn, matplotlib)   
+
 * You can Download the dataset from here:
 https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv
 
@@ -24,6 +25,7 @@ https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.
 * Python 3 latest Version can be installed from python.org official website.
 
 * To install the python Libraries, run the following commands in cmd or terminal:  
+	  
 	pip install matplotlib  
 	pip install pandas  
 	pip install sklearn  
@@ -32,7 +34,7 @@ https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.
 
 * To run the program just click on the Main.py executable file
 
-## Help
+## Help Tip
 
 To access the data file easily place the data file in root directory.
 
